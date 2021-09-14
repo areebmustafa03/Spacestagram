@@ -1,5 +1,4 @@
-# Shopify's Frontend Coding Challenge 
-
+# Spacestagram
 
 https://apodnasa231234.netlify.app/
 Front-end was completed in React.js. I acknoweldge that I used 3rd party API to help me to complete this coding challenge. I used NASA's API and I had used Bootstrap for front end development and also used FontAwesome for icons.
