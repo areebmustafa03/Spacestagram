@@ -7,7 +7,7 @@ Front-end was completed in React.js. I acknoweldge that I used 3rd party API to 
 - Added a like button (though it doesn't animate when you click it :( 
 - Added a loading state.
 - Added a date picker which displays APOD from the date chosen up to the current date
--
+
 
 ## Limitations
 - Clean up the UI. The date picker isn't so clean
